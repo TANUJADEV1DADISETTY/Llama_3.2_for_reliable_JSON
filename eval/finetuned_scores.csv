@@ -1,0 +1,21 @@
+filename,key_accuracy,raw_output_first_50_chars,is_valid_json,has_all_required_keys,value_accuracy,notes
+eval_doc_01.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_02.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_03.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_04.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_05.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_06.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_07.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_08.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_09.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_10.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_11.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_12.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_13.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_14.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_15.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_16.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_17.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_18.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_19.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON
+eval_doc_20.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Flawless zero-shot JSON

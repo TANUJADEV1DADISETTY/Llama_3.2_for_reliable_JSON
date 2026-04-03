@@ -1,0 +1,21 @@
+filename,key_accuracy,raw_output_first_50_chars,is_valid_json,has_all_required_keys,value_accuracy,notes
+eval_doc_01.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_02.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_03.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_04.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_05.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_06.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_07.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_08.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_09.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_10.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_11.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_12.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_13.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_14.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_15.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_16.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
+eval_doc_17.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_18.txt,0.2,Here is the extracted invoice data:...,False,False,0.5,Wrapped in markdown
+eval_doc_19.txt,1.0,{"vendor": "Fake Corp", "invoice__nu...,True,True,1.0,Valid base response
+eval_doc_20.txt,0.4,{"vendor": "Fake Corp", "date": "Apri...,True,False,0.8,Missing required schema keys
